@@ -1,0 +1,44 @@
+# Python compiled files
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.sqlite3
+
+# Virtual environment
+venv/
+env/
+ENV/
+*.env
+
+# Django stuff:
+*.log
+*.pot
+*.py[cod]
+*.so
+*.mo
+
+# Database
+db.sqlite3
+
+# Media files
+/media/
+
+# Static files
+/staticfiles/
+*.static
+
+# Local settings
+local_settings.py
+
+# VS Code settings
+.vscode/
+
+# PyCharm settings
+.idea/
+
+# macOS-specific files
+.DS_Store
+
+# Node modules (if using Node.js)
+node_modules/
